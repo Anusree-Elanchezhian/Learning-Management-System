@@ -1,0 +1,140 @@
+body {
+	background-color: #ececec;
+	font-family: 'Muli', sans-serif;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 100vh;
+	margin: 0;
+	max-width: 100%;
+}
+.ass-head{
+    font-style: italic;
+    padding-left: 50px;
+    height: 25%;
+    background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1689243627/top-view-elections-concept-with-copy-space_1_qxbvwi.jpg');
+    background-size: cover;
+	background-position: center;
+  z-index: -10;
+}
+.tlin
+{
+	color:white;
+	text-decoration: none;
+}
+h3{
+    padding-top: 20px;
+}
+.assess {
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	display: flex;
+	margin: 20px;
+	
+	transition: .4s ease all;
+  overflow: hidden;
+}
+
+.assess:hover {
+	transform: scale(.995);
+}
+
+.assess h6 {
+	opacity: 0.6;
+	margin: 0;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.assess h2 {
+	letter-spacing: 1px;
+	margin: 10px 0;
+}
+
+.assess-preview {
+	background-color: #2A265F;
+	color: #fff;
+	padding: 30px;
+	max-width: 200px;
+}
+
+.assess-preview a {
+	color: #fff;
+	display: inline-block;
+	font-size: 12px;
+	opacity: 0.6;
+	margin-top: 30px;
+	text-decoration: none;
+}
+
+.assess-info {
+	padding: 30px;
+	position: relative;
+	width: 100%;
+}
+.btn1{
+	padding: 10px;
+	margin: 10Px;
+	background-color: #2A265F;
+	color: white;
+}
+.session{
+	padding-left: 5%;
+	display: flex;
+}
+.lin
+{
+	color: #fff;
+	text-decoration: none;
+}	
+.abtn {
+	background-color: #2A265F;
+	border-radius: 50px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	color: #fff;
+	font-size: 16px;
+	padding: 10px 20px;
+	margin-left: 20%;
+	margin-bottom:10% ;
+	bottom: 30px;
+	right: 30px;
+	letter-spacing: 1px;
+	transition: .3s ease all;
+}
+
+.abtn:hover {
+	border-radius: 2px;
+	transform: scale(1.1);
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
+}
+
+.abtn:active {
+	border-radius: 2px;
+	transform: scale(1.05); 
+}
+
+.abtn:focus{
+    outline: none;
+}
+
+.details {
+  position: absolute;
+  background: #fff;
+  top: 199px;
+  left: -230px;
+  padding: 20px 30px;
+  width: 800px;
+  border-radius: 10px;
+}
+.det{
+	width:250px;
+	text-align: center;
+}
+.ass-part
+{
+    display: flex;
+}
+.res
+{
+	padding: 2%;
+}

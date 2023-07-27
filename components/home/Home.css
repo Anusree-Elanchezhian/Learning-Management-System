@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+.scroll{
+    text-align: center;
+    background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1689132099/18938589_v1016-a-09_b7pcud.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+.quotes
+{
+    padding: 20px;
+}
+h1
+{
+    text-align: left;
+}
+.author{
+    padding-right: 20%;
+    text-align: right;
+}
+.hbtn
+{
+    border-radius: 10px;
+    background-color: #8b8b8b;
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.link
+{
+    text-decoration: none;
+}
+.hbtn:hover
+{
+    background-color: #535353;
+    text-decoration: none;
+}
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide-effect span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+  .slide-container {
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto; /* Centers the container horizontally */
+    text-align: center; /* Centers the content within the container */
+  }
+  
+  .each-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .course-image {
+    width: 100%;
+    height: 300px; /* Adjust the height as needed */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .course-image h2 {
+    font-size: 24px;
+  }
+  
+  .course-image p {
+    font-size: 16px;
+  }
+  .social-icons
+  {
+    margin-left: 40%;
+    padding-top:1% ;
+  }
+  .footer
+  {
+    margin-top: 2%;
+    margin-bottom: 20%;
+  }
+  .topCourse
+  {
+    display: flex;
+    margin-bottom: 5%;
+  }
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    margin: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
+  
+  .card1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container1 {
+    padding: 5%;
+  }

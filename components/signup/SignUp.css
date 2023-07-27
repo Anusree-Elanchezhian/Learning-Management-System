@@ -1,0 +1,44 @@
+.sigmain{
+  padding: 10%;
+  background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1689268507/books-library_zhapdm.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.sign-form {
+  background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1689268507/books-library_zhapdm.jpg');
+  background-size: cover;
+  border-radius: 25px;
+  max-width: 50%;
+  margin-right: 30% auto;
+  margin-top: 3%;
+  padding: 8%;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.sign-form div {
+  margin-bottom: 10px;
+}
+.sign-form input[type='text'],
+.sign-form input[type='email'],
+.sign-form input[type='password'],
+.sign-form select {
+  padding: 15px;
+  font-size: 16px;
+}
+.sign-form button[type='submit'] {
+  width: 80%;
+  padding: 10px;
+  margin: px;
+  border-radius: 25px;
+  background-color: #2A265F;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.sign-form button[type='submit']:hover {
+  background-color: #1d1686;
+}

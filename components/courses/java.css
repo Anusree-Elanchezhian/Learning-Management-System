@@ -1,0 +1,29 @@
+.cls1
+{
+    width: 100%;
+}
+.java
+{
+    overflow: hidden;
+}
+.jav{
+    text-align: center;
+    padding-left:50px;
+    margin: 40px;
+    width: 1050px;
+}
+.desc
+{
+    padding-left: 5%;
+}
+.desc-main
+{
+    margin: 20px;
+    padding: 5%;
+    border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+    max-width: 200%;
+	margin-left: 100px;
+	width: 800px;
+	transition: .4s ease all;
+}

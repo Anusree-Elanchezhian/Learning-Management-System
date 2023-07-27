@@ -1,0 +1,30 @@
+.f-form{
+    padding: 10%;
+    background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1689268507/books-library_zhapdm.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+.forgot-password-form{
+    background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1689268507/books-library_zhapdm.jpg');
+    border-radius: 10px;
+    margin: 7%;
+    padding: 5%;
+    width: 50%;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+.fbtn{
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+    background-color: #2A265F;
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+.fbtn:hover {
+    background-color: #1d1686;
+  }
